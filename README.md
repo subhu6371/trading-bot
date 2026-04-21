@@ -1,4 +1,4 @@
-#How to Run (Examples)
+How to Run (Examples)
 
 You can view the help menu and all available flags by running:
 `python cli.py --help`
